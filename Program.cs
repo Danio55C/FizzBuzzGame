@@ -24,8 +24,6 @@ namespace FizzBuzzGame
 
         private static int GetValue()
         {
-
-
             while (true)
             {
                 var val=Console.ReadLine();
@@ -62,6 +60,8 @@ namespace FizzBuzzGame
         }
     }
 }
+
+
 
 
             
